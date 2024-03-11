@@ -1,2 +1,2 @@
-# ansible-practice
+# ansible
 
